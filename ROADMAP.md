@@ -2,6 +2,12 @@
 
 Co je hotové, co přijde a co by bylo hezké. Pořadí odpovídá tomu, co dává pro hraní největší smysl, ne tomu, co je technicky nejzajímavější. Návrhy a hlasování: [issues](../../issues).
 
+> **Upřímné varování:** tohle je projekt táty a dcery. Napadá nás spousta věcí a může se stát, že se k němu už nevrátíme. Všechno je proto zveřejněné tak, aby se u toho mohli bavit i ostatní bez nás – mapa jde hrát, generátor jde spustit, postup je popsaný. Pokud něco z plánu níže zůstane ležet a chcete to udělat, udělejte to; forky i pull requesty jsou vítané.
+
+## 🎯 Hned teď – prozkoumat divadlo
+
+Projít Národní divadlo celé, od suterénů po kupoli, a zapsat, co ruší: kde se nedá projít, co visí ve vzduchu, co nevypadá jako to, co to má být. Z toho vznikne seznam pro 0.2. Tohle je ta část, kterou děláme kvůli sobě.
+
 ## ✅ 0.1 – První mapa (říjen 2026)
 
 - Celé divadlo včetně interiéru v měřítku 2 : 1, okolí v kruhu 330 m, Bedrock Edition.
@@ -23,12 +29,12 @@ Cíl: aby se dalo divadlem projít jako skutečný návštěvník, bez létání
 - Export stejného světa i pro Java Edition (Amulet umí převod, chybí jen otestovat palety bloků).
 - Jedno vydání = dva soubory: `.mcworld` a zip se složkou světa pro Javu.
 
-## 🗺️ 1.0 – Kus Prahy z dat IPR
+## 🗺️ 1.0 – Kusy Prahy, které známe, z dat IPR
 
-Větší projekt, pro který tento repozitář vzniká.
+Větší projekt, pro který tento repozitář vzniká: ne „Praha", ale **místa, kde bydlíme a kudy chodíme** – vlastní ulice, cesta do školy, okolí divadla – generovaná ze stejných otevřených dat. Každý si může vygenerovat svůj kousek.
 
 - **Zdroj:** [Model budov a mostů](https://geoportalpraha.cz/data-a-sluzby/clanky-a-projekty/3D-model/3d-model-budovy-mosty) a [digitální model terénu](https://geoportalpraha.cz/data-a-sluzby/clanky-a-projekty/3D-model) IPR Praha – otevřená data CC BY 4.0, pokrývají celé město, střechy modelované do detailu (komíny, věže, vikýře), přesnost 0,5 m. Stahují se po mapových listech (DWG / 3D shapefile / DGN).
-- **Výřez:** nejdřív 2 × 2 km kolem divadla – Staré Město, Malá Strana, Hrad, Petřín. Celá Praha (496 km²) nemá smysl: svět by měl desítky gigabajtů.
+- **Výřez:** parametr generátoru – zadáte střed a velikost (třeba 1 × 1 km kolem vaší ulice) a dostanete svět. My začneme okolím divadla a vlastní čtvrtí. Celá Praha (496 km²) nemá smysl: svět by měl desítky gigabajtů.
 - **Měřítko:** 1 : 1 pro město, divadlo zůstane jako „detailní vložka" ve 2 : 1 (musí se vyřešit přechod, nejspíš sokl kolem divadla).
 - **Co bude automaticky:** terén, řeka, mosty, hmoty všech domů se střechami, ulice z OpenStreetMap. Panorama by mělo sedět na metr.
 - **Co bude ručně:** dominanty – Hrad, Týn, Karlův most, Rudolfinum – jako komunitní stavby, viz [CONTRIBUTING.md](CONTRIBUTING.md).

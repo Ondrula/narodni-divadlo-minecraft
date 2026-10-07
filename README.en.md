@@ -51,7 +51,9 @@ Full list with licence texts and citation wording: [docs/zdroje-a-licence.md](do
 
 ## Roadmap
 
-Next: a finer interior (stairs instead of blocks, better seats, windows) and a Java Edition release. The bigger goal: **a map of part of Prague** – Old Town, Lesser Town, the Castle – generated from the same open IPR data, with this theatre dropped in as a detailed insert. See [ROADMAP.md](ROADMAP.md).
+The next goal is simple: **explore the National Theatre** – walk through all of it with my daughter, from the basements to the dome, and fix whatever bothers us on the way. Then we want to **generate maps of the parts of Prague we know** – the streets we live on and walk through – from the same open IPR data, with the theatre as a detailed insert. Details in [ROADMAP.md](ROADMAP.md) (Czech).
+
+> **Fair warning:** this is a father-and-daughter project. We get a lot of ideas, and it may well happen that something else grabs us next month and we never come back to this one. That is why everything – the map, the generator and the write-up – is published so that others can have fun with it without us. If the project goes quiet and you want to carry on, fork it; the licences allow it and we'd be glad.
 
 ## Licence
 

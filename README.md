@@ -53,7 +53,9 @@ Tento projekt by bez Lukášovy práce nevznikl. Je to jeho divadlo, my jsme ho 
 
 ## Kam to půjde dál
 
-Nejbližší cíl je dotáhnout interiér (schody místo bloků, jemnější sedadla, okna) a vydat mapu i pro Java Edition. Větší věc na obzoru: **mapa části Prahy** – Staré Město, Malá Strana, Hrad – vygenerovaná ze stejných otevřených dat IPR, do které tohle divadlo zapadne jako detailní vložka. Všechno v [ROADMAP.md](ROADMAP.md).
+Nejbližší cíl je prostý: **prozkoumat Národní divadlo** – projít ho s dcerou celé, od suterénů po kupoli, a opravit, co nás při tom bude rušit. Pak chceme **generovat mapy částí Prahy, které známe** – ulice, kde bydlíme a kudy chodíme – ze stejných otevřených dat IPR, s divadlem jako detailní vložkou. Podrobněji v [ROADMAP.md](ROADMAP.md).
+
+> **Upřímné varování:** je to projekt táty a dcery. Napadá nás spousta věcí a klidně se může stát, že nás za měsíc chytne něco jiného a k tomuhle se už nevrátíme. Proto je všechno – mapa, generátor i postup – zveřejněné tak, aby se u toho mohli bavit i ostatní bez nás. Když projekt usne a budete chtít pokračovat, forkněte ho; licence to dovolují a budeme rádi.
 
 ## Chcete pomoct?
 
