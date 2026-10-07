@@ -10,7 +10,7 @@ MODEL_REPO="https://github.com/lukasersil/narodni-divadlo-3d.git"
 MODEL_COMMIT="2d9e2cd55d9231777eebb3253de8d3e47344b85f"   # pinned: the version the map was built from
 CROP="${1:-all}"
 
-echo "== 1/5 model: Lukáš Ersil, narodni-divadlo-3d @ ${MODEL_COMMIT:0:7}"
+echo "== 1/5 model: Lukáš Eršil, narodni-divadlo-3d @ ${MODEL_COMMIT:0:7}"
 if [ ! -d vendor/narodni-divadlo-3d/.git ]; then
   git clone --quiet "$MODEL_REPO" vendor/narodni-divadlo-3d
 fi

@@ -1,4 +1,4 @@
-// Step 1 – export the finished building (phase 7) from Lukáš Ersil's narodni-divadlo-3d as a flat triangle soup.
+// Step 1 – export the finished building (phase 7) from Lukáš Eršil's narodni-divadlo-3d as a flat triangle soup.
 // The app is run headless in Chromium (WebGL 2 fallback); every visible mesh is baked to world space and streamed
 // to out/tris.bin, with per-mesh metadata (material key, colour, registry flags) in out/meta.json.
 // Env: ND_REPO (path to the cloned model repo, default vendor/narodni-divadlo-3d), ND_CHROMIUM (browser binary).

@@ -2,9 +2,9 @@
 
 Tahle stránka vysvětluje, jak se z 3D modelu na webu stane svět v Minecraftu, bez programátorského žargonu. Technický popis se vším, co je potřeba k opakování, je v [pipeline/README.md](../pipeline/README.md).
 
-## Výchozí bod: model Lukáše Ersila
+## Výchozí bod: model Lukáše Eršila
 
-Lukáš Ersil vytvořil [interaktivní 3D model Národního divadla](https://github.com/lukasersil/narodni-divadlo-3d), který běží v prohlížeči. Není to „naskenovaná" budova – je to **rekonstrukce podle historických plánů**: půdorysů a řezů Josefa Zítka a J. Fialky z roku 1883, výkresů krovu z roku 1876, dobových fotografií. Rozměry sedí na decimetry: proscénium je 36,6 m od severního průčelí, jeviště je 14 m široké, kupole končí 39 m nad ulicí.
+Lukáš Eršil vytvořil [interaktivní 3D model Národního divadla](https://github.com/lukasersil/narodni-divadlo-3d), který běží v prohlížeči. Není to „naskenovaná" budova – je to **rekonstrukce podle historických plánů**: půdorysů a řezů Josefa Zítka a J. Fialky z roku 1883, výkresů krovu z roku 1876, dobových fotografií. Rozměry sedí na decimetry: proscénium je 36,6 m od severního průčelí, jeviště je 14 m široké, kupole končí 39 m nad ulicí.
 
 Pro nás je důležité, že model zahrnuje i to, co zvenku nevidíte: hlediště s lóžemi, foyer, jevištní mašinerii (propadla, točnu, tahy), suterény. A že má otevřenou licenci (MIT), takže ho smíme použít a přetvořit.
 

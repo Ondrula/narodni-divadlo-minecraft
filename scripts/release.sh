@@ -8,4 +8,4 @@ gh release create "v$VERSION" "map/Narodni-divadlo.mcworld#Narodni-divadlo.mcwor
   --title "Národní divadlo v Minecraftu $VERSION" \
   --notes "Mapa pro Minecraft Bedrock Edition. Návod k instalaci: https://github.com/${GITHUB_REPOSITORY:-$(gh repo view --json nameWithOwner -q .nameWithOwner)}/blob/main/docs/instalace.md
 
-Změny: viz CHANGELOG.md. Podle 3D modelu *narodni-divadlo-3d* Lukáše Ersila (MIT); data © IPR Praha, © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL)."
+Změny: viz CHANGELOG.md. Podle 3D modelu *narodni-divadlo-3d* Lukáše Eršila (MIT); data © IPR Praha, © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL)."

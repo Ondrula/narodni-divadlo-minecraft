@@ -47,4 +47,4 @@ Dokumentace je česky s anglickým README. Oprava překlepu nebo lepší formula
 
 ---
 
-Pravidla jsou jednoduchá: buďte slušní, uvádějte zdroje (všechno, co do mapy přijde, musí mít licenci slučitelnou s CC BY 4.0 – viz [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md)), a berte to jako to, co to je: hračka postavená s dětmi na ramenou pořádné práce Lukáše Ersila.
+Pravidla jsou jednoduchá: buďte slušní, uvádějte zdroje (všechno, co do mapy přijde, musí mít licenci slučitelnou s CC BY 4.0 – viz [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md)), a berte to jako to, co to je: hračka postavená s dětmi na ramenou pořádné práce Lukáše Eršila.

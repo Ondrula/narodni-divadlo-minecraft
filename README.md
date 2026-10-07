@@ -36,7 +36,7 @@ Užitečné příkazy, souřadnice zajímavých míst, legenda bloků a známé 
 
 ## Jak to vzniklo
 
-Ukazoval jsem dceři [interaktivní 3D model Národního divadla](https://github.com/lukasersil/narodni-divadlo-3d), který vytvořil **Lukáš Ersil** – stavbu divadla po fázích od roku 1868, rentgenový pohled do mašinerie, požár v roce 1881. Koukali jsme na to spolu a napadlo nás: v takovém divadle bychom si chtěli zahrát v Minecraftu. Projít se po jevišti, vylézt na kupoli, sedět v královské lóži.
+Ukazoval jsem dceři [interaktivní 3D model Národního divadla](https://github.com/lukasersil/narodni-divadlo-3d), který vytvořil **Lukáš Eršil** – stavbu divadla po fázích od roku 1868, rentgenový pohled do mašinerie, požár v roce 1881. Koukali jsme na to spolu a napadlo nás: v takovém divadle bychom si chtěli zahrát v Minecraftu. Projít se po jevišti, vylézt na kupoli, sedět v královské lóži.
 
 Lukášův model je otevřený (MIT) a postavený přesně podle dobových plánů, takže šel převést na bloky: jeho model jsme „nakrájeli" na kostky 50 × 50 cm a každé kostce přiřadili blok podle materiálu – pískovec, zlato, červené sametové sedadlo. Terén, řeka a okolní domy pocházejí z otevřených dat pražského IPR. Celý postup je popsaný srozumitelně v [docs/jak-to-vzniklo.md](docs/jak-to-vzniklo.md) a technicky v [pipeline/README.md](pipeline/README.md); mapu si z něj kdokoli může znovu vygenerovat.
 
@@ -44,7 +44,7 @@ Tento projekt by bez Lukášovy práce nevznikl. Je to jeho divadlo, my jsme ho 
 
 ## Poděkování a zdroje
 
-- **Lukáš Ersil – [narodni-divadlo-3d](https://github.com/lukasersil/narodni-divadlo-3d)** (MIT). Geometrie celé budovy včetně interiéru, jevištní mašinerie a soch, rekonstruovaná podle plánů Josefa Zítka a Josefa Schulze a výkresů J. Fialky z roku 1883. Mapa je odvozené dílo z tohoto modelu.
+- **Lukáš Eršil – [narodni-divadlo-3d](https://github.com/lukasersil/narodni-divadlo-3d)** (MIT). Geometrie celé budovy včetně interiéru, jevištní mašinerie a soch, rekonstruovaná podle plánů Josefa Zítka a Josefa Schulze a výkresů J. Fialky z roku 1883. Mapa je odvozené dílo z tohoto modelu.
 - **IPR Praha** – digitální model terénu a model budov (CC BY 4.0): terén, nábřeží a okolní domy.
 - **ČÚZK, RÚIAN** (CC BY 4.0) – půdorys divadla.
 - **OpenStreetMap** (ODbL) – řeka, ulice, most Legií.
@@ -61,6 +61,6 @@ Nejvíc pomůže, když mapu otevřete na svém zařízení a napíšete, jestli
 
 ## Licence
 
-Kód generátoru (`pipeline/`) je pod licencí [MIT](LICENSE). Samotná mapa (`map/*.mcworld`) a náhledy jsou pod [CC BY 4.0](LICENSE-MAP.md) – můžete ji volně šířit, upravovat i stavět dál, jen uveďte autory: Lukáše Ersila za 3D model, IPR Praha a ČÚZK za data, OpenStreetMap a tento projekt. Podrobnosti v [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).
+Kód generátoru (`pipeline/`) je pod licencí [MIT](LICENSE). Samotná mapa (`map/*.mcworld`) a náhledy jsou pod [CC BY 4.0](LICENSE-MAP.md) – můžete ji volně šířit, upravovat i stavět dál, jen uveďte autory: Lukáše Eršila za 3D model, IPR Praha a ČÚZK za data, OpenStreetMap a tento projekt. Podrobnosti v [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).
 
 *Není to oficiální projekt Národního divadla ani Mojang/Microsoft. Minecraft je ochranná známka Mojang AB.*

@@ -5,7 +5,7 @@ Soubory ve složce `map/` (`*.mcworld`), náhledy v `docs/images/` a dokumentace
 
 © 2026 Ondřej Skřehota. Odvozené dílo z:
 
-- *narodni-divadlo-3d*, © Lukáš Ersil, MIT – https://github.com/lukasersil/narodni-divadlo-3d
+- *narodni-divadlo-3d*, © Lukáš Eršil, MIT – https://github.com/lukasersil/narodni-divadlo-3d
 - 3D data Prahy (digitální model terénu a povrchu, Model budov a mostů), © IPR Praha, CC BY 4.0 – https://geoportalpraha.cz
 - RÚIAN, © ČÚZK, CC BY 4.0 – https://cuzk.gov.cz
 - © přispěvatelé OpenStreetMap, ODbL – https://www.openstreetmap.org/copyright
@@ -21,4 +21,4 @@ Smíte mapu kopírovat, šířit, upravovat a stavět na ní pro jakýkoli úče
 The files in `map/` (`*.mcworld`), the previews in `docs/images/` and the documentation of this project are released under
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-© 2026 Ondřej Skřehota. Derived from *narodni-divadlo-3d* by Lukáš Ersil (MIT), 3D data of Prague by IPR Praha (CC BY 4.0), RÚIAN by ČÚZK (CC BY 4.0) and OpenStreetMap (ODbL). Attribution wording: [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).
+© 2026 Ondřej Skřehota. Derived from *narodni-divadlo-3d* by Lukáš Eršil (MIT), 3D data of Prague by IPR Praha (CC BY 4.0), RÚIAN by ČÚZK (CC BY 4.0) and OpenStreetMap (ODbL). Attribution wording: [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).

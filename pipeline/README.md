@@ -3,7 +3,7 @@
 This folder regenerates `map/Narodni-divadlo.mcworld` from scratch. Everything is deterministic; running it on the pinned commit of the model produces the same world.
 
 ```
-narodni-divadlo-3d (Lukáš Ersil)  ──export.mjs──▶  out/tris.bin + out/meta.json
+narodni-divadlo-3d (Lukáš Eršil)  ──export.mjs──▶  out/tris.bin + out/meta.json
                                                         │
                                                    voxelize.py
                                                         ▼

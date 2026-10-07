@@ -2,7 +2,7 @@
   "name": "narodni-divadlo-minecraft-pipeline",
   "private": true,
   "version": "0.1.0",
-  "description": "Export of Lukáš Ersil's narodni-divadlo-3d model to a triangle soup for voxelization",
+  "description": "Export of Lukáš Eršil's narodni-divadlo-3d model to a triangle soup for voxelization",
   "type": "module",
   "scripts": {
     "export": "node export.mjs"

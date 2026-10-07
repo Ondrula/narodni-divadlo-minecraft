@@ -2,10 +2,10 @@
 
 Mapa je odvozené dílo. Všechno, z čeho vznikla, má otevřenou licenci, a každá z nich vyžaduje uvedení autora. Tady je to pohromadě – pokud mapu šíříte, upravujete nebo z ní něco stavíte, převezměte prosím tento seznam.
 
-## 1. 3D model Národního divadla – Lukáš Ersil
+## 1. 3D model Národního divadla – Lukáš Eršil
 
 - **Dílo:** *narodni-divadlo-3d* – interaktivní 3D model Národního divadla v Praze (Three.js, WebGPU): stavba 1868–1883, rentgen, řez, noc, požár 1881
-- **Autor:** Lukáš Ersil
+- **Autor:** Lukáš Eršil
 - **Odkaz:** https://github.com/lukasersil/narodni-divadlo-3d
 - **Licence:** MIT (kód a geometrie modelu)
 - **Použitá verze:** commit `2d9e2cd55d9231777eebb3253de8d3e47344b85f` (5. 10. 2026)
@@ -14,7 +14,7 @@ Mapa je odvozené dílo. Všechno, z čeho vznikla, má otevřenou licenci, a ka
 
 Doporučená citace:
 
-> Ersil, Lukáš. *narodni-divadlo-3d: Interaktivní 3D model Národního divadla v Praze.* GitHub, 2026. https://github.com/lukasersil/narodni-divadlo-3d. Licence MIT.
+> Eršil, Lukáš. *narodni-divadlo-3d: Interaktivní 3D model Národního divadla v Praze.* GitHub, 2026. https://github.com/lukasersil/narodni-divadlo-3d. Licence MIT.
 
 Lukáš svůj model postavil podle plánů Josefa Zítka a Josefa Schulze, výkresů J. Fialky (1883) a krovu (1876), které jsou volným dílem, a podle dat uvedených níže. Tento projekt vznikl jako jeho inspirace a bez něj by neexistoval.
 
@@ -24,7 +24,7 @@ Lukáš svůj model postavil podle plánů Josefa Zítka a Josefa Schulze, výkr
 - **Datové sady:** Digitální model povrchu a terénu (1m rastr), Model budov a mostů (Budovy 3D)
 - **Odkaz:** https://geoportalpraha.cz/data-a-sluzby/clanky-a-projekty/3D-model
 - **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs)
-- **Co jsme použili:** terén a výšky okolí (nábřeží, ostrovy, dno řeky), hmoty okolních budov včetně tvarů střech, výšku kupole a střech divadla. V podobě, kterou z nich odvodil L. Ersil (`src/data/site.js` jeho repozitáře).
+- **Co jsme použili:** terén a výšky okolí (nábřeží, ostrovy, dno řeky), hmoty okolních budov včetně tvarů střech, výšku kupole a střech divadla. V podobě, kterou z nich odvodil L. Eršil (`src/data/site.js` jeho repozitáře).
 
 Uvedení zdroje: *© IPR Praha, CC BY 4.0*
 
@@ -55,13 +55,13 @@ Uvedení zdroje: *© přispěvatelé OpenStreetMap, ODbL*
 ## Licence tohoto projektu
 
 - **Kód** ve složce `pipeline/` a skripty: [MIT](../LICENSE), © 2026 Ondřej Skřehota.
-- **Mapa** (`map/*.mcworld`), náhledy a dokumentace: [CC BY 4.0](../LICENSE-MAP.md), © 2026 Ondřej Skřehota – odvozeno z díla Lukáše Ersila a dat IPR Praha, ČÚZK a OpenStreetMap.
+- **Mapa** (`map/*.mcworld`), náhledy a dokumentace: [CC BY 4.0](../LICENSE-MAP.md), © 2026 Ondřej Skřehota – odvozeno z díla Lukáše Eršila a dat IPR Praha, ČÚZK a OpenStreetMap.
 
 ## Jak citovat tento projekt
 
 Pokud mapu použijete, šíříte ji dál nebo z ní stavíte, uveďte prosím:
 
-> *Národní divadlo v Minecraftu* (Ondřej Skřehota, 2026, CC BY 4.0, https://github.com/Ondrula/narodni-divadlo-minecraft), podle 3D modelu *narodni-divadlo-3d* Lukáše Ersila (MIT); data © IPR Praha a © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL).
+> *Národní divadlo v Minecraftu* (Ondřej Skřehota, 2026, CC BY 4.0, https://github.com/Ondrula/narodni-divadlo-minecraft), podle 3D modelu *narodni-divadlo-3d* Lukáše Eršila (MIT); data © IPR Praha a © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL).
 
 Strojově čitelná citace je v souboru [CITATION.cff](../CITATION.cff).
 

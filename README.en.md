@@ -34,7 +34,7 @@ Commands, coordinates of the interesting spots, block legend and known issues: [
 
 ## How it came to be
 
-I was showing my daughter the [interactive 3D model of the National Theatre](https://github.com/lukasersil/narodni-divadlo-3d) made by **Lukáš Ersil** – the construction phases from 1868, the X-ray view of the stage machinery, the 1881 fire. We looked at it together and thought: we'd love to play in that theatre in Minecraft. Walk across the stage, climb the dome, sit in the royal box.
+I was showing my daughter the [interactive 3D model of the National Theatre](https://github.com/lukasersil/narodni-divadlo-3d) made by **Lukáš Eršil** – the construction phases from 1868, the X-ray view of the stage machinery, the 1881 fire. We looked at it together and thought: we'd love to play in that theatre in Minecraft. Walk across the stage, climb the dome, sit in the royal box.
 
 Lukáš's model is open (MIT) and built precisely from period drawings, so it could be turned into blocks: we sliced it into 50 × 50 cm cubes and gave each cube a block by material – sandstone, gold, red velvet. The terrain, the river and the neighbouring houses come from open data published by the Prague Institute of Planning and Development (IPR). The whole process is explained in [docs/jak-to-vzniklo.md](docs/jak-to-vzniklo.md) (Czech) and technically in [pipeline/README.md](pipeline/README.md) (English); anyone can regenerate the map from it.
 
@@ -42,7 +42,7 @@ This project would not exist without Lukáš's work. It is his theatre; we only 
 
 ## Credits and sources
 
-- **Lukáš Ersil – [narodni-divadlo-3d](https://github.com/lukasersil/narodni-divadlo-3d)** (MIT). The geometry of the whole building including the interior, stage machinery and sculptures, reconstructed from the plans of Josef Zítek and Josef Schulz and J. Fialka's 1883 drawings. The map is a derivative work of this model.
+- **Lukáš Eršil – [narodni-divadlo-3d](https://github.com/lukasersil/narodni-divadlo-3d)** (MIT). The geometry of the whole building including the interior, stage machinery and sculptures, reconstructed from the plans of Josef Zítek and Josef Schulz and J. Fialka's 1883 drawings. The map is a derivative work of this model.
 - **IPR Praha** – digital terrain model and 3D building model (CC BY 4.0): terrain, embankments, neighbouring buildings.
 - **ČÚZK, RÚIAN** (CC BY 4.0) – footprint of the theatre.
 - **OpenStreetMap** contributors (ODbL) – river, streets, Legion Bridge.
@@ -55,6 +55,6 @@ Next: a finer interior (stairs instead of blocks, better seats, windows) and a J
 
 ## Licence
 
-Generator code (`pipeline/`) is [MIT](LICENSE). The map itself (`map/*.mcworld`) and the previews are [CC BY 4.0](LICENSE-MAP.md): share, remix and build on it freely, just credit Lukáš Ersil for the 3D model, IPR Praha and ČÚZK for the data, OpenStreetMap contributors and this project.
+Generator code (`pipeline/`) is [MIT](LICENSE). The map itself (`map/*.mcworld`) and the previews are [CC BY 4.0](LICENSE-MAP.md): share, remix and build on it freely, just credit Lukáš Eršil for the 3D model, IPR Praha and ČÚZK for the data, OpenStreetMap contributors and this project.
 
 *Not an official project of the National Theatre or of Mojang/Microsoft. Minecraft is a trademark of Mojang AB.*

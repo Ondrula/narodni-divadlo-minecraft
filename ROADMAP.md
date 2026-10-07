@@ -5,7 +5,7 @@ Co je hotové, co přijde a co by bylo hezké. Pořadí odpovídá tomu, co dáv
 ## ✅ 0.1 – První mapa (říjen 2026)
 
 - Celé divadlo včetně interiéru v měřítku 2 : 1, okolí v kruhu 330 m, Bedrock Edition.
-- Automatický převod z modelu Lukáše Ersila, reprodukovatelný z tohoto repozitáře.
+- Automatický převod z modelu Lukáše Eršila, reprodukovatelný z tohoto repozitáře.
 
 ## 🔜 0.2 – Hratelnější interiér
 
