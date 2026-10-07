@@ -1,0 +1,13 @@
+# pipeline working files
+pipeline/out/
+pipeline/vendor/
+pipeline/node_modules/
+pipeline/.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+pipeline/__pycache__/

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Pokud mapu použijete, uveďte prosím tento projekt i původní 3D model Lukáše Ersila."
+title: "Národní divadlo v Minecraftu"
+type: software
+version: 0.1.0
+date-released: 2026-10-07
+license: "MIT AND CC-BY-4.0"
+authors:
+  - family-names: Skřehota
+    given-names: Ondřej
+abstract: "Mapa Národního divadla v Praze (interiér i exteriér) a jeho okolí pro Minecraft Bedrock Edition, automaticky odvozená z otevřeného 3D modelu narodni-divadlo-3d Lukáše Ersila a z otevřených dat IPR Praha, ČÚZK a OpenStreetMap."
+keywords:
+  - Minecraft
+  - Národní divadlo
+  - Praha
+  - voxelizace
+  - IPR Praha
+references:
+  - type: software
+    title: "narodni-divadlo-3d: Interaktivní 3D model Národního divadla v Praze"
+    authors:
+      - family-names: Ersil
+        given-names: Lukáš
+    year: 2026
+    license: MIT
+    url: "https://github.com/lukasersil/narodni-divadlo-3d"
+    commit: 2d9e2cd55d9231777eebb3253de8d3e47344b85f
