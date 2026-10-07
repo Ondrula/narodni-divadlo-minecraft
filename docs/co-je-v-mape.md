@@ -62,6 +62,6 @@ Buďte na to připravení – je to první automatický převod, ne ručně stav
 - **Mostovka mostu Legií je zčásti travnatá** – výškový model terénu nad mostem nesedí přesně na mostovku.
 - **Mimo kruh ~330 m je plochá louka.** Dál data nesahají.
 - Lampy a lustry svítí (glowstone), ale uvnitř budovy je i tak místy šero. Vezměte si pochodeň nebo zapněte *Nastavení → Video → Jas* naplno.
-- Mapa je generovaná pro Bedrock 1.21.90 a **zatím ověřená jen generátorem, ne na každém zařízení**. Když ji otevřete, napište nám, jestli funguje – i to je příspěvek.
+- Mapa je generovaná pro Bedrock 1.21.90 a ověřená na tabletu (Bedrock Edition, říjen 2026). Na jiných zařízeních by měla fungovat stejně – když ne, napište nám, i to je příspěvek.
 
 Našli jste něco dalšího? Založte [issue](../../../issues) se screenshotem a souřadnicemi.

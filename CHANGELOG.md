@@ -16,4 +16,4 @@ První veřejná verze.
 
 ### Známé nedostatky
 - Plné bloky bez schodů a půlbloků, hrubá sedadla a zábradlí, vynechané okenní příčky a tramvaje, okolní domy bez oken, mostovka mostu Legií zčásti travnatá. Viz `docs/co-je-v-mape.md`.
-- Netestováno na reálných zařízeních – hlášení vítána.
+- Ověřeno na tabletu (Bedrock Edition). Hlášení z dalších zařízení vítána.

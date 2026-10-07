@@ -4,7 +4,7 @@ Nemusíte být programátor. Většina práce, která mapě chybí, se dělá v 
 
 ## 1. Vyzkoušejte mapu a napište, jak dopadla
 
-Nejcennější příspěvek právě teď. Mapa je generovaná a ověřená nástroji, ne každou verzí hry. Založte [issue](../../issues/new?template=hlaseni.md) (nebo napište do [diskuzí](../../discussions)) s tím:
+Nejcennější příspěvek právě teď. Mapa je ověřená na tabletu, ne na každé platformě a verzi hry. Založte [issue](../../issues/new?template=hlaseni.md) (nebo napište do [diskuzí](../../discussions)) s tím:
 
 - jaké zařízení a verzi Minecraftu máte (*Nastavení → Profil*, úplně dole),
 - jestli se import povedl,

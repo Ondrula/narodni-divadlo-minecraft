@@ -7,7 +7,7 @@
 ![The National Theatre in Minecraft – preview](docs/images/nahled-divadlo.png)
 
 <p align="center">
-  <a href="map/Narodni-divadlo.mcworld?raw=true"><b>⬇️ Download the map (Narodni-divadlo.mcworld, 2.4 MB)</b></a><br>
+  <a href="https://github.com/Ondrula/narodni-divadlo-minecraft/raw/main/map/Narodni-divadlo.mcworld"><b>⬇️ Download the map (Narodni-divadlo.mcworld, 2.4 MB)</b></a><br>
   <sub>version 0.1.0 · Minecraft Bedrock Edition 1.21.90 or newer · <a href="docs/instalace.md">installation guide (Czech)</a></sub>
 </p>
 

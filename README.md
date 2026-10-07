@@ -7,7 +7,7 @@
 ![Národní divadlo v Minecraftu – náhled](docs/images/nahled-divadlo.png)
 
 <p align="center">
-  <a href="map/Narodni-divadlo.mcworld?raw=true"><b>⬇️ Stáhnout mapu (Narodni-divadlo.mcworld, 2,4 MB)</b></a><br>
+  <a href="https://github.com/Ondrula/narodni-divadlo-minecraft/raw/main/map/Narodni-divadlo.mcworld"><b>⬇️ Stáhnout mapu (Narodni-divadlo.mcworld, 2,4 MB)</b></a><br>
   <sub>verze 0.1.0 · Minecraft Bedrock Edition 1.21.90 a novější · <a href="docs/instalace.md">podrobný návod k instalaci</a></sub>
 </p>
 
@@ -57,7 +57,7 @@ Nejbližší cíl je dotáhnout interiér (schody místo bloků, jemnější sed
 
 ## Chcete pomoct?
 
-Nejvíc pomůže, když mapu otevřete na svém zařízení a napíšete, jestli funguje – zatím je ověřená jen generátorem, ne každou verzí Minecraftu. Chyby v mapě (díra ve zdi, místo, kam se propadnete) hlaste jako [issue](../../issues) se screenshotem a souřadnicemi. Jak na to a jak přispět i jinak: [CONTRIBUTING.md](CONTRIBUTING.md).
+Nejvíc pomůže, když mapu otevřete na svém zařízení a napíšete, jestli funguje – zatím je ověřená na tabletu, ne na každé platformě. Chyby v mapě (díra ve zdi, místo, kam se propadnete) hlaste jako [issue](../../issues) se screenshotem a souřadnicemi. Jak na to a jak přispět i jinak: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licence
 

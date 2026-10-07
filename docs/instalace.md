@@ -2,7 +2,7 @@
 
 Mapa je soubor **Narodni-divadlo.mcworld**. Je to obyčejný „balíček světa" pro Minecraft Bedrock Edition – stačí ho otevřít a Minecraft si ho sám naimportuje. Nic se neinstaluje do systému, nic se nemění v jiných světech.
 
-**Stáhnout:** [Narodni-divadlo.mcworld](../map/Narodni-divadlo.mcworld?raw=true) (2,4 MB)
+**Stáhnout:** [Narodni-divadlo.mcworld](https://github.com/Ondrula/narodni-divadlo-minecraft/raw/main/map/Narodni-divadlo.mcworld) (2,4 MB)
 
 Potřebujete **Minecraft Bedrock Edition 1.21.90 nebo novější** (to je verze z léta 2025; cokoli, co máte dnes aktualizované z App Store / Google Play / Microsoft Store, je novější). Při prvním otevření si Minecraft svět převede na svou aktuální verzi – to je normální a trvá to pár vteřin.
 

@@ -61,7 +61,7 @@ Uvedení zdroje: *© přispěvatelé OpenStreetMap, ODbL*
 
 Pokud mapu použijete, šíříte ji dál nebo z ní stavíte, uveďte prosím:
 
-> *Národní divadlo v Minecraftu* (Ondřej Skřehota, 2026, CC BY 4.0), podle 3D modelu *narodni-divadlo-3d* Lukáše Ersila (MIT); data © IPR Praha a © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL).
+> *Národní divadlo v Minecraftu* (Ondřej Skřehota, 2026, CC BY 4.0, https://github.com/Ondrula/narodni-divadlo-minecraft), podle 3D modelu *narodni-divadlo-3d* Lukáše Ersila (MIT); data © IPR Praha a © ČÚZK (CC BY 4.0), © přispěvatelé OpenStreetMap (ODbL).
 
 Strojově čitelná citace je v souboru [CITATION.cff](../CITATION.cff).
 

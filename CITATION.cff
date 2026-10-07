@@ -3,6 +3,7 @@ message: "Pokud mapu použijete, uveďte prosím tento projekt i původní 3D mo
 title: "Národní divadlo v Minecraftu"
 type: software
 version: 0.1.0
+repository-code: "https://github.com/Ondrula/narodni-divadlo-minecraft"
 date-released: 2026-10-07
 license: "MIT AND CC-BY-4.0"
 authors:
