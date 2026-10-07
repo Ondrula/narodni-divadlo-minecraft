@@ -61,6 +61,6 @@ Nejvíc pomůže, když mapu otevřete na svém zařízení a napíšete, jestli
 
 ## Licence
 
-Kód generátoru (`pipeline/`) je pod licencí [MIT](LICENSE). Samotná mapa (`map/*.mcworld`) a náhledy jsou pod [CC BY 4.0](LICENSE-MAP.md) – můžete ji volně šířit, upravovat i stavět dál, jen uveďte autory: Lukáše Eršila za 3D model, IPR Praha a ČÚZK za data, OpenStreetMap a tento projekt. Podrobnosti v [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).
+Repozitář má dvě licence. Kód generátoru (`pipeline/`, `scripts/`) je pod licencí [MIT](LICENSE) – to je licence, kterou GitHub zobrazuje v záhlaví. Samotná mapa (`map/*.mcworld`) a náhledy jsou pod [CC BY 4.0](LICENSE-MAP.md) – můžete ji volně šířit, upravovat i stavět dál, jen uveďte autory: Lukáše Eršila za 3D model, IPR Praha a ČÚZK za data, OpenStreetMap a tento projekt. Podrobnosti v [docs/zdroje-a-licence.md](docs/zdroje-a-licence.md).
 
 *Není to oficiální projekt Národního divadla ani Mojang/Microsoft. Minecraft je ochranná známka Mojang AB.*

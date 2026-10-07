@@ -55,6 +55,6 @@ Next: a finer interior (stairs instead of blocks, better seats, windows) and a J
 
 ## Licence
 
-Generator code (`pipeline/`) is [MIT](LICENSE). The map itself (`map/*.mcworld`) and the previews are [CC BY 4.0](LICENSE-MAP.md): share, remix and build on it freely, just credit Lukáš Eršil for the 3D model, IPR Praha and ČÚZK for the data, OpenStreetMap contributors and this project.
+The repository is dual-licensed. Generator code (`pipeline/`, `scripts/`) is [MIT](LICENSE) – the licence GitHub shows in the header. The map itself (`map/*.mcworld`) and the previews are [CC BY 4.0](LICENSE-MAP.md): share, remix and build on it freely, just credit Lukáš Eršil for the 3D model, IPR Praha and ČÚZK for the data, OpenStreetMap contributors and this project.
 
 *Not an official project of the National Theatre or of Mojang/Microsoft. Minecraft is a trademark of Mojang AB.*
